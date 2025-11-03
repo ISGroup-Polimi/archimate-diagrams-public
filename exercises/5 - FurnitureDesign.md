@@ -10,4 +10,4 @@ After some years, to support the remote working the company has decided to move 
 
 ## Business Layer
 
-![Archimate diagram Business Layer](/images/Furniure-BusinessLayer.png)
+![Archimate diagram Business Layer](/images/Furniture-BusinessLayer.png)
