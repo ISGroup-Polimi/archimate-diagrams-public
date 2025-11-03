@@ -7,3 +7,7 @@ As for the application side, the operator uses software called Autocad through i
 Concerning the technology used to support the application, the company has installed Autocad in several desktop PC in the offices. All the projects created with this software are shared in a dedicated machine where the files are stored.
 
 After some years, to support the remote working the company has decided to move the shared folder to a cloud service offering storage as a service.
+
+## Business Layer
+
+![Archimate diagram Business Layer](/images/Furniure-BusinessLayer.png)
