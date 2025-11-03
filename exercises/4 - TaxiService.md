@@ -6,7 +6,15 @@ As for the application side, the third phase of the process is supported by a ma
 
 This application setting is supported a cockpit (running on Linux) that hosts the two applications (maps and CRM). Both are offered as desktop applications which communicates with their respective databases, both installed on the same DBMS.
 
+### Business Layer
+
+![Archimate diagram](/images/Taxi-BusinessLayer.png)
+
 ## Variant 
 As a variant of the previous solution, let assume that the first activity in the process uses the map service which is able to offer information about the customers by calling the CRM which exposes an API.
 
 With this alternative, the technology layer is revised. Notably, the CRM is a two tiered application exposing an API used by the map application. The DB node remains the same.
+
+### Business Layer
+
+![Archimate diagram](/images/Taxi-BusinessLayer-variant.png)
