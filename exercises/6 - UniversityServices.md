@@ -15,3 +15,7 @@ In this case, the adopted ERP is a SaaS solution offered by a cloud provider, wh
 ## Business Layer
 
 ![Archimate diagram Business Layer](/images/University-BusinessLayer.png)
+
+## Application Layer
+
+![Archimate diagram Business Layer](/images/University-ApplicationLayer.png)
