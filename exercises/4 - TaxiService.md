@@ -18,3 +18,8 @@ With this alternative, the technology layer is revised. Notably, the CRM is a tw
 ### Business Layer
 
 ![Archimate diagram](/images/Taxi-BusinessLayer-variant.png)
+
+
+### Application Layer
+
+![Archimate diagram](/images/Taxi-ApplicationLayer.png)
