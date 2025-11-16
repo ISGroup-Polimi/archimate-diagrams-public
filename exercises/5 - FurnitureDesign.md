@@ -11,3 +11,7 @@ After some years, to support the remote working the company has decided to move 
 ## Business Layer
 
 ![Archimate diagram Business Layer](/images/Furniture-BusinessLayer.png)
+
+## Application Layer
+
+![Archimate diagram Business Layer](/images/Furniture-ApplicationLayer.png)
